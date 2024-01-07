@@ -1,0 +1,6 @@
+@ndd._202401_HostAddress = http://localhost:5172
+
+GET {{ndd._202401_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
